@@ -1,0 +1,13 @@
+git add:
+git status:
+git checkout:
+git clean:
+git clone:
+git commit:
+git show:
+git config:
+git push:
+git init:
+git log:
+git branch:
+git remote:
