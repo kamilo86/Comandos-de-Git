@@ -1,13 +1,25 @@
-git add:
-git status:
-git checkout:
-git clean:
-git clone:
-git commit:
-git show:
-git config:
-git push:
-git init:
-git log:
-git branch:
-git remote:
+git add: es el que se encarga de añadir un cambio al directorio en el entorno del proyecto.
+
+git status: Permite ver los cambios que se han preparado, los que no y los archivos en los que Git no va a realizar el seguimiento.
+
+git checkout: Reflejar la versión almacenada en esa rama y se indica a Git que registre todas las confirmaciones nuevas en dicha rama.
+
+git clean: Es el que se encuentran en el directorio del repositorio, pero que no se han añadido al índice del repositorio con git add .
+
+git clone: Es el que se localizar en el sistema de archivos local o en los protocolos admitidos a los que se puede acceder por máquina remota.
+
+git commit: Son las versiones seguras de un proyecto.
+
+git show: Es el que presenta un comportamiento específico para cada tipo de objeto.
+
+git config: Cuando se ejecuta git  modificará un archivo de texto de configuración.
+
+git push: Es la forma de transferir confirmaciones desde tu repositorio local
+
+git init: Al ejecutarse este comando, se creará un nuevo subdirectorio
+
+git log: Se usa cuando necesitas buscar una versión concreta de un proyecto
+
+git branch: Está integrado con los comandos git checkout
+
+git remote: Son los que se asemejan más a marcadores que a enlaces directos con otros repositorios.
